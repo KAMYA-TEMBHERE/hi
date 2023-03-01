@@ -7,6 +7,6 @@
 
 *hello you*
 >hello you
-- hello 1
-- hello 2
+1. hello 1
+2. hello 2
 3. hello 3
